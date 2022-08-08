@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/thatbynln/thatbynln/blob/main/resources/img/waving.gif">, I'm ThatBynln</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/meditlon/meditlon/blob/main/resources/img/waving.gif">, I'm ThatBynln</h1>
 <h4 align="center">Still Learning New Stuff, FOSS Supporter and Linux Nerd With Different Vision.</h4>
 </div>
 
 <div align="center">
-  <a href="https://thatbynln.github.io/">
-  <img  src="https://github.com/thatbynln/thatbynln/blob/main/resources/img/grid-snake.svg"
+  <a href="https://meditlon.github.io/">
+  <img  src="https://github.com/meditlon/meditlon/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 <p align="center"><samp>
